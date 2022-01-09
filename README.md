@@ -1,40 +1,33 @@
-# [Tailwind Toolbox](https://www.tailwindtoolbox.com/) - [App Landing Page Template](https://www.tailwindtoolbox.com/templates/app-landing-page)
+# Tailwind-Svelte-Typescript-Rollup - [Tailwind Toolbox App Landing Page](https://www.tailwindtoolbox.com/templates/app-landing-page)
 
 [App Landing Page](https://www.tailwindtoolbox.com/templates/app-landing-page) is an open source, generic App Landing Page template for [Tailwind CSS](https://tailwindcss.com/) created by [Tailwind Toolbox](https://www.tailwindtoolbox.com/).
 
 ![App Landing Page](https://www.tailwindtoolbox.com/templates/app-landing.png)
 
-
 ## Getting Started
 
-Choose one of the following options to get started:
-* [Download the latest release](https://github.com/tailwindtoolbox/App-Landing-Page/archive/master.zip)
-* Clone the repo: `git clone https://github.com/tailwindtoolbox/App-Landing-Page.git`
-* Fork the repo
+To get started you need to:
 
-## Using the Template
+- Use this template with your own GitHub profile
+- Clone the repo
+- npm i
+- npm start
 
-The template is just a HTML file using a full CDN hosted Tailwind CSS file.
-
-To get the best out of Tailwind CSS, you need to really start customising it.
-Take a look at our [setup guide](https://www.tailwindtoolbox.com/setup) to start tweaking!
+Everything just works.
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/tailwindtoolbox/App-Landing-Page/issues/new) here on GitHub.
+Have a bug or an issue with this template? [Open a new issue](https://github.com/fuzzc0re/tailwindcss-svelte-typescript-rollup/issues/new) here on GitHub.
 
 ## Creator
 
 [Tailwind Toolbox](https://www.tailwindtoolbox.com/) was created by and is maintained by **[Amrit Nagi](https://amritnagi.info/)**, Co-owner of [Astrava.Solutions](https://astrava.solutions).
 
-* https://twitter.com/tailwindtoolbox
-* https://twitter.com/amritnagi
-* https://github.com/tailwindtoolbox
+- https://twitter.com/tailwindtoolbox
+- https://twitter.com/amritnagi
+- https://github.com/tailwindtoolbox
 
 Tailwind Toolbox is based on the [Tailwind CSS](https://www.tailwindcss.com/) framework created by [Adam Wathan](https://twitter.com/adamwathan), [Jonathan Reinink](https://twitter.com/reinink), [David Hemphill](https://twitter.com/davidhemphill) and [Steve Schoger](https://twitter.com/steveschoger)
-
-
-
 
 ## Copyright and License
 
