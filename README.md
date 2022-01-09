@@ -15,11 +15,22 @@ To get started you need to:
 
 Everything just works.
 
+## Features
+
+This aims to be a batteries-included rollup setup.
+The tsconfig enforces strict typescript rules in order to give a solid foundation for the projects that will use the
+template.
+The eslint config enforces the airbnb style guide and the prettier config helps with that. Only the ternary operators do
+not adhere from time to time.
+For routing the library svelte-spa-router is used.
+
 ## Bugs and Issues
 
 Have a bug or an issue with this template? [Open a new issue](https://github.com/fuzzc0re/tailwindcss-svelte-typescript-rollup/issues/new) here on GitHub.
 
 ## Creator
+
+The template setup is written by [Dimitris Karoukis](https://www.dkaroukis.com) (fuzzc0re).
 
 [Tailwind Toolbox](https://www.tailwindtoolbox.com/) was created by and is maintained by **[Amrit Nagi](https://amritnagi.info/)**, Co-owner of [Astrava.Solutions](https://astrava.solutions).
 
@@ -31,4 +42,5 @@ Tailwind Toolbox is based on the [Tailwind CSS](https://www.tailwindcss.com/) fr
 
 ## Copyright and License
 
-Copyright 2018-2019 Astrava.Solutions Ltd. Code released under the MIT license.
+Svelte-Typescript-Rollup config - Copyright 2022 Dimitris Karoukis (fuzzc0re). Code released under the MIT license.
+Landing page - Copyright 2018-2019 Astrava.Solutions Ltd. Code released under the MIT license.
