@@ -21,7 +21,6 @@
   "scripts": {
     "start": "cross-env NODE_ENV=development rollup -c -w",
     "build": "cross-env NODE_ENV=production rollup -c",
-    "postbuild": "cross-env NODE_ENV=production node scripts/postBuild.js",
     "validate": "svelte-check",
     "test": "jest --config jest.config.json",
     "format": "prettier --write src",
